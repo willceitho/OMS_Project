@@ -1,0 +1,10 @@
+com\softserveinc\edu\oms\web\order\OrderSortProperties$1.class
+com\softserveinc\edu\oms\service\implementation\ProductService$1.class
+com\softserveinc\edu\oms\persistence\dao\concrete\UserDao$1.class
+com\softserveinc\edu\oms\persistence\dao\params\SelectCondition$2.class
+com\softserveinc\edu\oms\web\abstracthandlers\AbstractPageableHandler$1.class
+com\softserveinc\edu\oms\web\pageablecontroler\util\PageActions$1.class
+com\softserveinc\edu\oms\web\util\pageable\PageModel$1.class
+com\softserveinc\edu\oms\web\pageablecontroler\AbstractPageableControler$1.class
+com\softserveinc\edu\oms\web\util\pageable\PageActions$1.class
+com\softserveinc\edu\oms\web\pageablecontroler\util\PageModel$1.class
